@@ -81,8 +81,8 @@
   - Change text color to white
   - Align text in the center
   - Change font size to 2rem
-  - Apply a text shadow with offsets and blur of 2px, and set color using `rgba(0,0,0,.8)`
   - Change background color to use `rgba(0,0,0,.25)`
+  - Apply a text shadow with offsets and blur of 2px, and set color using `rgba(0,0,0,.8)`
 
 15. Select the section with the class of `trends`
   - Change background color to `purple`
